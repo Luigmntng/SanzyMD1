@@ -5,7 +5,7 @@ const chalk = require('chalk')
 
 global.APIs = {
 zeroyt7: 'https://zeroyt7-api.xyz',
-lui: 'https://restapi-production-a62b.up.railway.app/api/',
+lui: 'https://restapi-production-a62b.up.railway.app/api',
 }
 
 //━━━━━━━━━━━━━━━[ APIKEY WEBSITE API ]━━━━━━━━━━━━━━━━━//

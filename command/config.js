@@ -5,6 +5,7 @@ const chalk = require('chalk')
 
 global.APIs = {
 zeroyt7: 'https://zeroyt7-api.xyz',
+lui: 'https://restapi-production-a62b.up.railway.app/api/',
 }
 
 //━━━━━━━━━━━━━━━[ APIKEY WEBSITE API ]━━━━━━━━━━━━━━━━━//
@@ -15,10 +16,10 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'owner - sanzy'
-global.owner = ['6281276698054']
-global.packname = 'Sanzy'
-global.author = 'Gemoyy'
+global.ownername = 'Lord - Lui'
+global.owner = ['6282146092695']
+global.packname = 'By'
+global.author = 'Lord Lui'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
